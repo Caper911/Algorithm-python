@@ -21,7 +21,7 @@ def insertSort(lists):
 
 s = [3,4,1,2,9,8,5,6,7,10,11,7,0,0,1,2,3,4]
 
-print('######Select Sort')
+print('######Insert Sort')
 print('##Before Sort:\n',s)
 
 print('##After Sort:')
